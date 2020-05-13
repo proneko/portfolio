@@ -1,0 +1,7 @@
+	<div id="bg2" class="about">
+		<h2>HATTORI SHOTO</h3>
+		<div class="container">
+			<p>I'm a web developer</p>
+			<img src="pc.jpg">
+		</div>
+	</div>
